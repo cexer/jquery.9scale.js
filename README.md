@@ -2,7 +2,7 @@
 jQuery 9-slice Scaling Plugin
 =============================
 
-jquery.9scale.js is a jQuery plugin which help draw 9-sclie scaling background/borders, and use sprite image as the image source.
+jquery.9scale.js is a jQuery plugin which help drawing 9-sclie scaling background/borders, and use sprite image as the image source.
 
 
 Motivation:
